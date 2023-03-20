@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Input Data App</string>
+    <string name="register">Register</string>
+    <string name="nik">NIK</string>
+    <string name="nama">Nama</string>
+    <string name="registrasi_penduduk">Registrasi Penduduk</string>
+    <string name="masukkan_nik">Masukkan Nik</string>
+    <string-array name="pekerjaan">
+        <item>Pegawai Negeri Sipil</item>
+        <item>Pegawai Swasta</item>
+        <item>Pelajar</item>
+        <item>Wiraswasta</item>
+    </string-array>
+
+</resources>
